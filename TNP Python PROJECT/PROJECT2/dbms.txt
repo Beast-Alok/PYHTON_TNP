@@ -1,0 +1,20 @@
+Which of the following is a type of database model?,a) Hierarchical,b) Flat-file,c) Relational,d) All of the above,d
+What is the main purpose of a primary key in a database?,a) To ensure data integrity,b) To provide a unique identifier for records,c) To allow duplicate values,d) To increase query speed,b
+Which of the following is not a type of SQL command?,a) DDL,b) DML,c) DCL,d) DSL,d
+What is a foreign key?,a) A key that is not used frequently,b) A key that is unique within a table,c) A key that links two tables together,d) A key used only for indexing,c
+Which SQL clause is used to filter records?,a) SELECT,b) WHERE,c) JOIN,d) GROUP BY,b
+Which of the following normal forms is considered the strictest?,a) First Normal Form (1NF),b) Second Normal Form (2NF),c) Third Normal Form (3NF),d) Boyce-Codd Normal Form (BCNF),d
+Which operation combines rows from two or more tables based on a related column?,a) UNION,b) INTERSECT,c) JOIN,d) SELECT,c
+What is the main purpose of indexing in a database?,a) To store data,b) To improve query performance,c) To create relationships between tables,d) To ensure data integrity,b
+Which of the following is an example of a NoSQL database?,a) MySQL,b) MongoDB,c) Oracle,d) SQL Server,b
+Which language is used to query and manipulate data in a relational database?,a) SQL,b) HTML,c) Python,d) C++,a
+Which of the following is not a valid aggregate function in SQL?,a) SUM(,b) AVG(,c) MIN(,d) ORDER(,d
+Which of the following statements is used to remove a table in SQL?,a) DELETE,b) DROP,c) TRUNCATE,d) REMOVE,b
+Which ACID property ensures that all changes to data are permanent after a transaction?,a) Atomicity,b) Consistency,c) Isolation,d) Durability,d
+What does the GROUP BY clause do in SQL?,a) Sorts the results,b) Filters records,c) Groups rows that have the same values into summary rows,d) Deletes duplicate rows,c
+In ER modeling,what does a diamond shape represent?,a) Entity,b) Attribute,c) Relationship,d) Primary key,c
+Which of the following is a property of a transaction in a database?,a) It must have at least one SELECT query,b) It can have no more than two UPDATE queries,c) It must follow the ACID properties,d) It only involves read operations,c
+What is a composite key in a relational database?,a) A key that is made up of two or more columns,b) A key that is used to combine two tables,c) A key used to index the database,d) A key that is automatically generated,a
+Which SQL keyword is used to retrieve unique values?,a) UNIQUE,b) DISTINCT,c) SELECT,d) LIMIT,b
+What is denormalization in a database?,a) Breaking a database into smaller tables,b) Combining multiple tables into one,c) Adding redundant data to improve performance,d) Ensuring data integrity,c
+Which of the following ensures that foreign key values match primary key values in a related table?,a) Referential integrity,b) Domain integrity,c) Entity integrity,d) Functional dependency,a

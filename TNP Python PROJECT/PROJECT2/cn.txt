@@ -1,0 +1,20 @@
+Which of the following is not a type of network topology?,a) Star,b) Ring,c) Mesh,d) Loop,d
+What is the main function of a router in a network?,a) To provide IP addresses to devices,b) To connect multiple networks and forward packets between them,c) To ensure error-free communication,d) To detect network congestion,b
+Which protocol is used for email transmission?,a) HTTP,b) SMTP,c) FTP,d) SNMP,b
+What is the purpose of the OSI model?,a) To provide a set of protocols for internet communication,b) To define a framework for building and interconnecting networks,c) To standardize network cables,d) To protect network security,b
+Which layer of the OSI model is responsible for end-to-end communication?,a) Application Layer,b) Transport Layer,c) Network Layer,d) Data Link Layer,b
+What is the main purpose of the TCP protocol?,a) To provide connectionless communication,b) To provide reliable, ordered, and error-checked delivery of data,c) To manage routing decisions,d) To handle encryption,b
+Which of the following is a network device that amplifies or regenerates signals to extend the range of a network?,a) Switch,b) Hub,c) Repeater,d) Router,c
+Which IP address class is used for large organizations with many devices?,a) Class A,b) Class B,c) Class C,d) Class D,b
+Which of the following is not an advantage of fiber-optic cables over copper cables?,a) Higher bandwidth,b) Less signal attenuation,c) Cheaper installation,d) Immunity to electromagnetic interference,c
+What is the size of an IPv6 address?,a) 32 bits,b) 64 bits,c) 128 bits,d) 256 bits,c
+Which of the following is a connectionless protocol?,a) TCP,b) UDP,c) FTP,d) HTTP,b
+What is the role of DNS in networking?,a) To translate domain names to IP addresses,b) To handle error-checking in data transmission,c) To manage the flow of data between computers,d) To provide secure communication between networks,a
+Which protocol is used to securely transfer files over the internet?,a) FTP,b) HTTP,c) HTTPS,d) SFTP,d
+What is the maximum transmission speed of a gigabit Ethernet network?,a) 10 Mbps,b) 100 Mbps,c) 1 Gbps,d) 10 Gbps,c
+Which of the following layers in the OSI model handles error detection and correction?,a) Application Layer,b) Network Layer,c) Data Link Layer,d) Physical Layer,c
+Which protocol is used to find the MAC address corresponding to an IP address?,a) DNS,b) ARP,c) ICMP,d) HTTP,b
+What is the function of a firewall in a network?,a) To prevent unauthorized access to or from a private network,b) To ensure reliable data transmission,c) To encrypt all network traffic,d) To allocate IP addresses,a
+What is the primary difference between IPv4 and IPv6?,a) IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses,b) IPv6 supports fewer devices than IPv4,c) IPv6 does not use DNS,d) IPv4 uses connection-oriented communication,a
+Which of the following terms refers to the rate at which data is transferred over a network?,a) Latency,b) Bandwidth,c) Propagation time,d) Throughput,b
+Which of the following describes a VPN (Virtual Private Network)?,a) A network that allows users to connect remotely through a secure tunnel,b) A network for connecting physical devices within a building,c) A network protocol for sharing files,d) A service that provides internet access,a

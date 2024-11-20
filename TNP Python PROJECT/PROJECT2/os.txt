@@ -1,0 +1,20 @@
+Which of the following is not a function of an operating system?,a) Memory management,b) Process scheduling,c) Compiler management,d) File management,c
+Which scheduling algorithm allocates the CPU to the process that arrives first?,a) Round Robin,b) Shortest Job First,c) First Come First Serve,d) Priority Scheduling,c
+What is the main function of the kernel in an operating system?,a) Managing user applications,b) Managing system resources,c) Managing system security,d) Providing the graphical user interface,b
+Which of the following is a type of memory management technique?,a) Paging,b) Spooling,c) Caching,d) Polling,a
+Which of the following is a non-preemptive scheduling algorithm?,a) Round Robin,b) Shortest Job Next,c) Priority Scheduling,d) Multilevel Queue Scheduling,b
+Which of the following is a disk scheduling algorithm?,a) Round Robin,b) SCAN,c) Paging,d) Semaphore,b
+In which of the following scenarios does a deadlock occur?,a) Multiple processes are unable to obtain the resources they need,b) Processes are in a circular wait,c) All resources are released,d) All processes finish execution,b
+Which of the following is an example of a real-time operating system?,a) Windows,b) macOS,c) Linux,d) VxWorks,d
+Which type of fragmentation occurs when memory is divided into fixed-size blocks?,a) Internal fragmentation,b) External fragmentation,c) Disk fragmentation,d) File fragmentation,a
+Which of the following synchronization primitives is used to avoid race conditions?,a) Semaphore,b) Paging,c) Virtual memory,d) Thrashing,a
+What is the role of a file system in an operating system?,a) To manage file permissions,b) To manage process scheduling,c) To handle the user interface,d) To optimize memory usage,a
+Which of the following is an advantage of a multi-threaded system?,a) Simplifies debugging,b) Increases system performance by reducing context switching,c) Makes memory management more complex,d) Causes increased CPU utilization,b
+What is a process in an operating system?,a) A program in execution,b) A file stored on disk,c) A memory block,d) A database entry,a
+Which of the following is an example of a preemptive scheduling algorithm?,a) First Come First Serve (FCFS),b) Shortest Job First (SJF),c) Round Robin,d) Multilevel Queue,c
+Which memory management scheme dynamically allocates memory to processes?,a) Swapping,b) Contiguous allocation,c) Paging,d) Demand paging,d
+What is thrashing in an operating system?,a) A technique to optimize CPU usage,b) A situation where the CPU spends more time swapping pages than executing processes,c) A memory fragmentation issue,d) A method to improve process scheduling,b
+Which system call creates a new process in Unix/Linux?,a) fork(),b) exec(),c) wait(),d) exit(),a
+Which of the following algorithms is used to prevent deadlock in an operating system?,a) Banker's algorithm,b) FIFO,c) SCAN algorithm,d) Disk scheduling,a
+Which type of memory is directly accessible by the CPU?,a) Cache memory,b) Hard disk,c) Virtual memory,d) Cloud storage,a
+Which of the following is true about virtual memory?,a) It is a type of RAM,b) It extends physical memory by using disk space,c) It only works with solid-state drives,d) It is the same as cache memory,b
